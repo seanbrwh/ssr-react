@@ -8,18 +8,15 @@
     "dev": "npm-run-all -p dev:build dev:start "
   },
   "dependencies": {
-    "@babel/preset-env": "^7.8.4",
-    "@babel/preset-react": "^7.8.3",
     "express": "^4.17.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
   },
   "devDependencies": {
     "@babel/core": "^7.8.4",
-    "babel-core": "^6.26.3",
+    "@babel/preset-env": "^7.8.4",
+    "@babel/preset-react": "^7.8.3",
     "babel-loader": "^8.0.6",
-    "babel-preset-env": "^1.7.0",
-    "babel-preset-react": "^6.24.1",
     "nodemon": "^2.0.2",
     "npm-run-all": "^4.1.5",
     "webpack": "^4.41.5",
